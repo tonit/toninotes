@@ -1,0 +1,19 @@
+If this note is in your repo, it means that thoughts from that day are persisted, shared and version-controlled transparently on GitHub. This is Awesome!
+
+## Check-In Routine
+- [x] Create this note (good job)
+- [ ] Drink something, Toni! 
+- [ ] Fill in at least one to-do 
+
+## Check-Out Routine
+- [ ] My top To-Do has been done or taken over to tomorrow
+- [ ] 
+
+## ToDos
+
+
+## Links
+
+
+## Logbook
+
